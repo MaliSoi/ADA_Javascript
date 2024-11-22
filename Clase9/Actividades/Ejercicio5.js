@@ -10,6 +10,6 @@ if (numeroa > numerob && numeroc){
     console.log (`El mayor es ${numeroa}`);
 }else if (numerob > numeroa && numeroc){
     console.log (`El mayor es ${numerob}`);
-}else if (numeroc > numeroa  numerob){
+}else if (numeroc > numeroa && numerob){
     console.log (`El mayor es ${numeroc}`);
 }
