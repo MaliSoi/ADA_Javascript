@@ -16,11 +16,10 @@ let numero = parseFloat (prompt ("Ingrese un número del 1 al 7:"))
 
 //if (numero > 7 && numero < 0){ 
 //   console.log ("Error. Por favor, elige un número del 1 al 7:");
-// Investigue que se puede hacer con switch y parseint asi que voy a tratar de hacer de las dos maneras.
 
-//if..if else
 
-/*if (numero === 1){
+
+if (numero === 1){
 console.log ("Lunes");
 } else if (numero === 2){
 console.log ("Martes");
@@ -36,7 +35,6 @@ console.log ("Miércoles");
    console.log ("Domingo");
 } else {
     console.log ("Error. Debes elegir un numero del 1 al 7.")
-}/*
+}
 
-//Ahora pruebbo, SWITCH
 
