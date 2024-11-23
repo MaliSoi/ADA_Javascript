@@ -9,4 +9,4 @@ let nombre = prompt ("Ingrese su nombre:");
 let edad = prompt ("Ingrese su edad:");
 let peso = prompt ("Ingrese su peso:");
 
-console.log(`Su nombre es: ${nombre}, tiene ${edad} anios y pesa ${peso}k. `);
+console.log(`Su nombre es: ${nombre}, tiene ${edad} anios y pesa ${peso}k.s`);
