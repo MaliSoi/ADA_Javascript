@@ -4,7 +4,8 @@
 const prompt = require('prompt-sync')();
 
 let numero1 = 40
-let numero2 = 6
+let numero2 = 11
+
 
 //if (numero1 >10 && numero2 >10){
 //console.log (" 'numero1' y 'numero2' son mayores que 10.")
