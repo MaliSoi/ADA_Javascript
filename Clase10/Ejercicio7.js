@@ -5,12 +5,14 @@
 
 const prompt = require('prompt-sync')();
 
-leta = 6
-letb = 20
+
+let a = 6
+let b = 20
+
 
 //console.log ("Antes del intercambio: a =", b =" );
 //console.log ( "Antes del intercambio:" a,b );
-console.log ( "Antes del intercambio: a =", a, ", b =", b);
+console.log ( "Antes del intercambio: a ="+ a, ", b ="+ b);
 
 
 //lettemp = a;
@@ -20,6 +22,19 @@ console.log ( "Antes del intercambio: a =", a, ", b =", b);
 
 //console.log ("Después del intercambio: a =", b =" )
 //console.log ( "Después del intercambio:" temp,b );
-console.log ( "Después del intercambio: a =", a , ", b =", b);
+console.log ( "Después del intercambio: a ="+ a , ", b ="+ b);
 //no me sale!
 
+//console.log ("Antes del intercambio:");
+//console.log ("a:" +a);
+//console.log ("b:" +b);
+
+//temp = a;
+//a=b;
+//b=temp;
+
+//console.log ("Después del intercambio:");
+//console.log ("a:" +a);
+//console.log ("b:" +b);
+
+//creo que no me salia porque ponia las vairables sin espacio: leta y letb
