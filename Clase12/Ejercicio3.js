@@ -17,7 +17,7 @@ let countOddNumbers = 0;
     console.log("La cantidad de números impares desde 0 hasta " + x + " (inclusive) es: " + countOddNumbers);
    
 
-// con las modificaciones que le fui haciendo no me salían los numeros y abajo el mensaje sin nada o mensajes por separada por cada numero impar.
+
 
 
 
