@@ -20,3 +20,6 @@ function totalGastosSemana(semana) {
 }
 
 return total
+
+console.log ("Los gastos de la semana, son:", totalGastosSemana);
+
