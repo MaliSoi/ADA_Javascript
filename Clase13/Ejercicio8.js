@@ -9,3 +9,11 @@ function convertirCelsiusAFarenheit(gradosCelsius){
 }
 
 console.log ("0 grados Celsius en grados Farenheit son:", convertirCelsiusAFarenheit(0));
+
+
+//creo que use funcion declarada en vez expresada. 
+
+//La expresada seria asi:
+//const convertirCelsiusAFahrenheit = function (celsius) {
+//    let fahrenheit = (celsius * 9 / 5) + 32; // Variable local
+//    return fahrenheit;
