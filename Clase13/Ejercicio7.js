@@ -4,7 +4,7 @@
 
 const prompt = require('prompt-sync')()
 
-//me falto una variable
+//me falto una variable y poner console.log en vez de return.
 
 let hora = 21
 
