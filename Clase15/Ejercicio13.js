@@ -25,3 +25,5 @@ if (clienteActual === "VIP") {
 
 // 3. Mostrar cuántos clientes fueron atendidos
 console.log(`Total de clientes atendidos: ${contador}`);
+
+//tuve que buscar en ayuda en internet para entender.
