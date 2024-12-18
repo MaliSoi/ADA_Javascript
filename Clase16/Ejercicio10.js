@@ -5,9 +5,16 @@
 
 let palabras = ['Me', 'gusta', 'aprender', 'JavaScript.'];
 
-let oracion =  palabras.join(' ');
+//let oracion =  palabras.join(' ');
 
-console.log(oracion);
+//console.log(oracion);
+
+let oracion = palabras.reduce(function(acum, palabra){
+    return acum + "  " + palabra;
+});
+
+console.log (oracion);
+
 
 
 
